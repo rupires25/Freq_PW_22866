@@ -1,0 +1,30 @@
+<atores>
+  <ator>
+    <nome>Brad Pitt</nome>
+    <idade>57</idade>
+    <filmes>
+      <filme>
+        <titulo>Clube da Luta</titulo>
+        <ano>1999</ano>
+      </filme>
+      <filme>
+        <titulo>Bastardos Inglórios</titulo>
+        <ano>2009</ano>
+      </filme>
+    </filmes>
+  </ator>
+  <ator>
+    <nome>Meryl Streep</nome>
+    <idade>71</idade>
+    <filmes>
+      <filme>
+        <titulo>O Diabo Veste Prada</titulo>
+        <ano>2006</ano>
+      </filme>
+      <filme>
+        <titulo>A Dama de Ferro</titulo>
+        <ano>2011</ano>
+      </filme>
+    </filmes>
+  </ator>
+</atores>
