@@ -1,0 +1,32 @@
+{
+    "atores": [
+      {
+        "nome": "Brad Pitt",
+        "idade": 57,
+        "filmes": [
+          {
+            "titulo": "Clube da Luta",
+            "ano": 1999
+          },
+          {
+            "titulo": "Bastardos Inglórios",
+            "ano": 2009
+          }
+        ]
+      },
+      {
+        "nome": "Meryl Streep",
+        "idade": 71,
+        "filmes": [
+          {
+            "titulo": "O Diabo Veste Prada",
+            "ano": 2006
+          },
+          {
+            "titulo": "A Dama de Ferro",
+            "ano": 2011
+          }
+        ]
+      }
+    ]
+  }
